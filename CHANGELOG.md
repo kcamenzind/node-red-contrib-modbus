@@ -1,3 +1,9 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [5.25.1](https://github.com/biancoroyal/node-red-contrib-modbus/compare/v5.25.0...v5.25.1) (2023-04-05)
+
 # [5.25.0](https://github.com/biancoroyal/node-red-contrib-modbus/compare/v5.23.1...v5.25.0) (2022-12-09)
 
 
@@ -364,6 +370,3 @@
 
 
 # 1.0.0 (2017-01-18)
-
-
-
