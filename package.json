@@ -33,7 +33,7 @@
     "url": "git+https://github.com/biancoroyal/node-red-contrib-modbus.git"
   },
   "node-red": {
-    "version": ">=2",
+    "version": ">=1",
     "nodes": {
       "Modbus-Client": "modbus/modbus-client.js",
       "Modbus-Response": "modbus/modbus-response.js",
